@@ -1,2 +1,2 @@
 # Django-Authentication
-Authentication and registration in django.
+Authenticanting Registration and login in django.
